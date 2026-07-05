@@ -83,7 +83,7 @@ jupyter notebook
 ```
 
 Open the Notebook locally: `Heart_Disease_Prediction.ipynb`  
-Or run on Colab: [Heart Disease Prediction Notebook](https://colab.research.google.com/drive/17ugahX7KvITt1UUKDr5SobMiRgyoDhAP?usp=sharing)
+Or run on Colab: [Heart Disease Prediction Notebook]([https://colab.research.google.com/drive/17ugahX7KvITt1UUKDr5SobMiRgyoDhAP?usp=sharing](https://colab.research.google.com/drive/1QG_NTGFNLmtnnPnk4vgltdn_ThSxM_hZ?usp=sharing))
 
 ---
 
